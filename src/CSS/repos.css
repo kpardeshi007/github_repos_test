@@ -1,0 +1,44 @@
+
+.flex-container{
+    display: flex;
+} 
+.item-header{
+    text-align: center;
+    font-size: large;
+    font-weight:bold;
+    padding:5%;
+}
+.item-description{
+    text-align: center;
+    font-size: medium;
+    padding:2%;
+}
+.item-watchers{
+    text-align: center;
+    font-size: medium;
+    padding:2%;
+}
+.item-card{
+    width: 100%;
+    display: flex;
+    align-items: center !important;
+}
+.alignment{
+    margin: 0 auto;
+    
+}
+.container-style{
+    background-color: #ffffff;
+    padding: 10px;
+}
+.search-input{
+    width: 100% ;
+}
+.search-btn{
+    margin-top:10px !important;
+    margin-bottom:20px !important;
+    width: 100% ;
+}
+.logout-btn{
+    float: right;
+}

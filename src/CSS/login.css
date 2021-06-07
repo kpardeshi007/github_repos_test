@@ -1,0 +1,11 @@
+
+.login-btn{ 
+  float: right;
+
+}
+.login-container{
+    align-content: center;
+}
+.login-card{
+    padding:2% !important;
+}
