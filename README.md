@@ -1,4 +1,4 @@
 # github_repos_test
 
-1st run "npm install"
-2nd rund "npm start" or "yarn start"
+1) npm install
+2) npm start or yarn start
